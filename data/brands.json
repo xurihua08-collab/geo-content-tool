@@ -1,0 +1,36 @@
+[
+  {
+    "id": "e6222141-084b-46d8-81fe-ea00340a7531",
+    "name": "明日财税",
+    "description": "",
+    "logo_url": "",
+    "website": "\u0016www.mrigp.com",
+    "industry": "财务服务",
+    "accounts": {
+      "toutiao": {
+        "platform": "toutiao",
+        "account_name": "何许人也",
+        "account_id": "15920014256",
+        "api_key": "",
+        "api_secret": "",
+        "cookies": "",
+        "is_active": true,
+        "notes": "",
+        "created_at": "2026-04-02T14:01:17.958485"
+      }
+    },
+    "created_at": "2026-03-31T16:06:42.565605",
+    "updated_at": "2026-03-31T16:06:42.565630"
+  },
+  {
+    "id": "b548835e-e062-4c41-b7ff-78f8f7edd4ea",
+    "name": "明日知识产权",
+    "description": "",
+    "logo_url": "",
+    "website": "www.mriip.com",
+    "industry": "知识产权",
+    "accounts": {},
+    "created_at": "2026-03-31T16:08:05.219466",
+    "updated_at": "2026-03-31T16:08:05.219480"
+  }
+]
